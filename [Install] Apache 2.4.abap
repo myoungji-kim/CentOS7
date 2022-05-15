@@ -36,7 +36,7 @@
 # This can often be determined automatically, but we recommend you specify
 # it explicitly to prevent problems during startup.
 #
-# If your host doesn't have a registered DNS name, enter its IP address here.
+# If your host doesn t have a registered DNS name, enter its IP address here.
 #
 # ServerName www.example.com:80
 ServerName localhost
